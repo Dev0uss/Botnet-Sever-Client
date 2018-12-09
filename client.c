@@ -1,7 +1,6 @@
 /*
 
-            *EDITED BY : Jerry Underground
-            *Skype If Any Issues : mrevilaragon@outlook.com
+            *EDITED BY : Dev0uss
             *Enjoy Killing Ranges/Bots :)
 			
 */
