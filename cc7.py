@@ -1,4 +1,4 @@
-#Python Auto Cross Compiler Re Edited By Jerry Underground
+#Python Auto Cross Compiler Re Edited 
 
 import subprocess, urllib2, sys
 
