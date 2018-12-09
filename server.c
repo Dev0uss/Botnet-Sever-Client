@@ -1,11 +1,10 @@
 /*
-If Any Issues As I Have Mentioned In My Video
-Please Message Me On By Skype : mrevilaragon@outlook.com
+
 Enjoy This Edit :)
 
 						*****************************************
-						*       Jerry Undergound Edit Of        *
-						*              DARKRAI                  *
+						*       ************************        *
+						*              *******                  *
 						*              SERVER.C                 *
 			            *              ENJOY! :)                *
 			            *****************************************
